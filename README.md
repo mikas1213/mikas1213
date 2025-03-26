@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I'm Mikas Dulevičius 👋
 
-<!--
-**mikas1213/mikas1213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a web developer passionate about creating meaningful digital experiences.
 
-Here are some ideas to get you started:
+## 🚀 Technologies & Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Frontend:**
+  * JavaScript
+  * React.js
+  * Learning: TypeScript, Next.js
+
+* **Backend:**
+  * Node.js
+  * Express.js
+  * Learning: GraphQL
+
+* **Database:**
+  * PostgreSQL
+
+## 💼 Current Project - www.bezalos.lt - healthy nutrition
+
+### Interactive nutrition plan
+![Screenshot 1](nutrition-plan.png)
+
+
+## 🌱 I'm currently learning
+
+* TypeScript
+* Next.js
+* GraphQL
+* Docker
+
+## 📫 How to reach me
+- **LinkedIn:** (https://www.linkedin.com/in/mikas-d-79654099)
+
+
+## 📊 GitHub Stats
+![Mikas1213's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikas1213&show_icons=true&theme=radical)
