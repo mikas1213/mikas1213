@@ -22,10 +22,10 @@
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Other Tools
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -45,8 +45,8 @@ A modern web application for creating and managing personalized nutrition plans 
 - ⚡ Fast and intuitive user experience
 
 **Tech Stack:**
-- Frontend: React.js, JavaScript, CSS3
-- Backend: Node.js, Express.js
+- Frontend: React.js
+- Backend: Node.js
 - Database: PostgreSQL
 
 ### Interactive nutrition plan
