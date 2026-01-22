@@ -48,6 +48,7 @@ A modern web application for creating and managing personalized nutrition plans 
 - Frontend: React.js
 - Backend: Node.js
 - Database: PostgreSQL
+- Server: Nginx
 
 ### Interactive nutrition plan
 ![Screenshot 1](nutrition-plan.png)
